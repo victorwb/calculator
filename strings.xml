@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Easy Maths</string>
+    <string name="Active">Active</string>
+    <string name="command">Insert function to differentiate</string>
+    <string name="function">function</string>
+    <string name="working">Show Working</string>
+    <string name="compute">COMPUTE</string>
+    <string name="tutorials">Watch tutorials</string>
+    <string name="videoword">About the video</string>
+</resources>
